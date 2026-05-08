@@ -39,7 +39,7 @@ ___
     - Including the one where attempting to build quickly caused blocks to disappear and players to fall.
 - A bug with shadows has been fixed.
     - There is no need to grant night vision effects for their correct display.
-- A bug causing shaking screens after death has been added.
+- A bug causing shaking screens after death has been fixed.
 - Proper saving of the player's exit location has been added.
     - Falling into a pit upon rejoining has been fixed.
 - World loading and chunk generation have been rewritten (including bugs when using multiple worlds).
